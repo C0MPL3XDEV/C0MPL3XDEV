@@ -33,4 +33,10 @@
     <img src="https://img.shields.io/badge/Instagram-E44674?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
+<br><h1>Statistics</h1>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0MPL3XDEV&layout=compact" alt="C0MPL3X" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=C0MPL3XDEV&show_icons=true" alt="C0MPL3X" />
+
+<h1>Contact me</h1>
+<p>Discord:  C0MPL3X#6285</p>
+<p>Instagram: c0mpl3xdev</p>
 
