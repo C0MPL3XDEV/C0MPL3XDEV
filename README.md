@@ -34,9 +34,12 @@
 <a href="https://discord.gg/Vy8C724XWV">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a> 
+<a href="https://c0mpl3xdev.github.io/C0MPL3XSITE/">
+    <img src="https://img.shields.io/badge/Website-081907?style=for-the-badge&logo=Firebase&logoColor=white"/>
+</a>
 
 <br><h1>Statistics</h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0MPL3XDEV&layout=compact" alt="C0MPL3X" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=C0MPL3XDEV&show_icons=true" alt="C0MPL3X" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0MPL3XDEV&theme=blue-green" alt="C0MPL3X" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=C0MPL3XDEV&theme=blue-green" alt="C0MPL3X" />
 
 <h1>Contact me</h1>
 <p>Discord:  C0MPL3XDEV#6784</p>
