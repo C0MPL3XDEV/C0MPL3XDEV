@@ -34,7 +34,7 @@
 <a href="https://discord.gg/Vy8C724XWV">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a> 
-<a href="https://c0mpl3x.web.app/">
+<a href="https://devc0mpl3x.web.app/">
     <img src="https://img.shields.io/badge/Website-081907?style=for-the-badge&logo=Firebase&logoColor=white"/>
 </a>
 
