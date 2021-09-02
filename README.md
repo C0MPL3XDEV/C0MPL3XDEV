@@ -46,10 +46,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C0MPL3XDEV&repo=E4GL30S1NT&theme=dark" />
 </a>
 
-<a href="https://github.com/C0MPL3XDEV/C0MPL3XPORTOFOLIO">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C0MPL3XDEV&repo=C0MPL3XPORTOFOLIO&theme=dark" />
-</a>
-
 <h1>Contact me</h1>
 <p>Discord:  C0MPL3XDEV#6784</p>
 <p>Instagram: c0mpl3xdev</p>
