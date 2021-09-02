@@ -39,7 +39,16 @@
 </a>
 
 <br><h1>Statistics</h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0MPL3XDEV&theme=blue-green" alt="C0MPL3X" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=C0MPL3XDEV&theme=blue-green" alt="C0MPL3X" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0MPL3XDEV&theme=dark" alt="C0MPL3X" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=C0MPL3XDEV&theme=dark" alt="C0MPL3X" />
+
+</a>
+<a href="https://github.com/C0MPL3XDEV/E4GL30S1NT">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C0MPL3XDEV&repo=E4GL30S1NT&theme=dark" />
+</a>
+
+<a href="https://github.com/C0MPL3XDEV/C0MPL3XPORTOFOLIO">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C0MPL3XDEV&repo=C0MPL3XPORTOFOLIO&theme=dark" />
+</a>
 
 <h1>Contact me</h1>
 <p>Discord:  C0MPL3XDEV#6784</p>
