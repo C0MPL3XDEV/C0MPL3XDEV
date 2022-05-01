@@ -4,28 +4,18 @@
  <img src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" width="250">
  
  # Skills
-<img src="https://camo.githubusercontent.com/46c6d668b46a6caa94156798562283141909073b461b344ed224e3c779ce3cad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d6439643631613f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c61636b"/>  <img src="https://img.shields.io/badge/Discord.py-5165F6?style=for-the-badge&logo=discord&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://camo.githubusercontent.com/d4f832c4aadd4d1f4d86efc6206d4e0a2c795d57a75b7a45afb112fcc04aeae6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7477656570792d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/57e622c48c5ee68e1e96b84b0481b7acab384bf6597e0b55438c6df27a26a8bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736f636b65742d3238613631373f7374796c653d666f722d7468652d6261646765266c6f676f3d576562417574686e266c6f676f436f6c6f723d7768697465"/>
+<img src="https://camo.githubusercontent.com/46c6d668b46a6caa94156798562283141909073b461b344ed224e3c779ce3cad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d6439643631613f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c61636b"/> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/Discord.py-5165F6?style=for-the-badge&logo=discord&logoColor=white"/>  <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 # OS
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-# Collabs
-### 💼 Teams: 
-[**Ethical-Hacking-Italia**](https://github.com/Ethical-Hacking-Italia),
-[pl-apps](https://github.com/pl-apps)
-### 👤 People: 
-[Peppo](https://github.com/Peppooo), he is in [pl-apps](https://github.com/pl-apps)
+# IDEs
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black) 
 
-[iurim581](https://github.com/iurim581), he is in [Ethical-Hacking-Italia](https://github.com/Ethical-Hacking-Italia)
+# Music
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
 
-[JProgrammer-it ](https://github.com/JProgrammer-it), he is in [Ethical-Hacking-Italia](https://github.com/Ethical-Hacking-Italia)
-
-[**Lorix**](https://lorix.itch.io/)**, a game developer**
-
-# Socials:
-</a>
-<a href="https://twitter.com/YC0mpl3x">
-    <img src="https://img.shields.io/badge/Twitter-00A2F5?style=for-the-badge&logo=twitter&logoColor=white"/>
+# Socials
 </a>
 <a href="https://www.instagram.com/c0mpl3xdev/">
     <img src="https://img.shields.io/badge/Instagram-E44674?style=for-the-badge&logo=Instagram&logoColor=white"/>
@@ -46,7 +36,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C0MPL3XDEV&repo=E4GL30S1NT&theme=dark" />
 </a>
 
-<h1>Contact me</h1>
+# Contact Me
+My Website: www.c0mpl3xdev.tk
 <p>Discord:  C0MPL3XDEV#6784</p>
-<p>Instagram: c0mpl3xdev</p>
+Instagram: <a href="https://instagram.com/c0mpl3xdev">c0mpl3xdev</a>
 
