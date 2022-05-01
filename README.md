@@ -33,7 +33,10 @@
 
 </a>
 <a href="https://github.com/C0MPL3XDEV/E4GL30S1NT">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C0MPL3XDEV&repo=E4GL30S1NT&theme=dark" />
+ <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=C0MPL3XDEV&repo=E4GL30S1NT&theme=dark" />
+</a>
+<a href="https://github.com/C0MPL3XDEV/E4GL30S1NT">
+ <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=C0MPL3XDEV&repo=NIHON-READER&theme=dark" />
 </a>
 
 # Contact Me
