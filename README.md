@@ -29,16 +29,8 @@
 </a>
 
 <br><h1>Statistics</h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0MPL3XDEV&theme=algolia" alt="C0MPL3X" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=C0MPL3XDEV&theme=algolia" alt="C0MPL3X" />
-
-</a>
-<a href="https://github.com/C0MPL3XDEV/E4GL30S1NT">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C0MPL3XDEV&repo=E4GL30S1NT&theme=algolia" />
-</a>
-<br></br>
-<a href="https://github.com/C0MPL3XDEV/E4GL30S1NT">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C0MPL3XDEV&repo=NIHON-READER&theme=algolia" />
-</a>
+![COMPLEXDEV GitHub stats](https://github-readme-stats.vercel.app/api?username=C0MPL3XDEV&show_icons=true&theme=transparent)
+![COMPLEXDEV GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=C0MPL3XDEV&repo=E4GL30S1NT&show_owner&show_icons=true&theme=transparent)
 
 # Contact Me
 My Website: www.c0mpl3xdev.tk
