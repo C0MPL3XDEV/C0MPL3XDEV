@@ -4,13 +4,13 @@
  <img src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" width="250">
  
  # Skills
-<img src="https://camo.githubusercontent.com/46c6d668b46a6caa94156798562283141909073b461b344ed224e3c779ce3cad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d6439643631613f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c61636b"/> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/Discord.py-5165F6?style=for-the-badge&logo=discord&logoColor=white"/>  <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,java,py,bash,flutter,js,vite,firebase,html,css&theme=dark)](https://skillicons.dev)
 
 # OS
-![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)&nbsp;&nbsp;![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 # IDEs
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black) 
+[![IntelliJIdea](https://skillicons.dev/icons?i=idea,vscode,visualstudio,codepen&theme=dark)](https://skillicons.dev)&nbsp;&nbsp;![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)&nbsp;&nbsp;![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
 # Music
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
