@@ -1,6 +1,6 @@
  # Hi I'm C0MPL3XDEV!
  
- <h4>I am an Italian Programmer 🍕</h4>
+ <h4>Hi! I'm Italian Computer Science Student 🍕</h4>
  <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" width="600">
  
  # Skills
