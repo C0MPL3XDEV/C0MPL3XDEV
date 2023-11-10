@@ -4,7 +4,7 @@
  <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" width="600">
  
  # Skills
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,java,py,bash,flutter,js,vite,firebase,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,java,py,bash,flutter,js,vite,firebase,html,css,mysql,php,arduino&theme=dark)](https://skillicons.dev)
 
 # OS
 [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)&nbsp;&nbsp;![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
