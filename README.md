@@ -1,7 +1,7 @@
  # Hi I'm C0MPL3XDEV!
  
  <h4>Hi! I'm Italian Computer Science Student 🍕</h4>
- <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" width="600">
+ <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" width="1000">
  
  # Skills
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,java,py,bash,flutter,js,vite,firebase,html,css,mysql,php,arduino&theme=dark)](https://skillicons.dev)
