@@ -31,7 +31,6 @@
 ## 📊 GitHub Statistics
 ![COMPLEXDEV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C0MPL3XDEV&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0MPL3XDEV&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=C0MPL3XDEV&theme=radical)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=C0MPL3XDEV&repo=E4GL30S1NT&show_owner=true&theme=radical)
 
 ## 📫 Contact Me
