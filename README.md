@@ -24,7 +24,7 @@
 ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E44674?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/c0mpl3xdev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E44674?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/carmine.developer/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vy8C724XWV)
 [![Website](https://img.shields.io/badge/Website-Under%20Construction-FF5733?style=for-the-badge&logo=construction&logoColor=white)](https://c0mpl3xdev.tk)
 
